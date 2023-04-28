@@ -1,0 +1,16 @@
+.header, .footer{
+    width:100vw;
+    line-height: 100px;    
+    background-color: goldenrod;
+    color: aliceblue;
+    text-align: center;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0px;    
+}
+
+.main{
+    background-color: aqua;
+}
